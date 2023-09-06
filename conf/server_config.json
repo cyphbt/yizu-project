@@ -1,0 +1,18 @@
+{
+	"RdConfig": {
+		"Address": "localhost:923",
+		"Password": "Cx330$2021.@",
+		"DB": 0
+	},
+	"PgConfig": {
+		"Username": "root",
+		"Password": "Cx330$2021.@",
+		"Address": "localhost",
+		"Port": "2237",
+		"DBName": "yizu"
+	},
+	"HouseImgUrl": "/Users/cyp/yizu/house_image",
+	"HouseImgPath": "house_image_path",
+	"AvatarUrl": "avatar",
+	"Port": "2017"
+}
